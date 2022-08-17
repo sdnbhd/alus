@@ -9,7 +9,7 @@
 <br><br>
 
 Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan,
-sekitar 300m dari stasiun Lenteng Agung -- sebelah kanan jika mengarah ke Depok.
+sekitar 300m dari stasiun Lenteng Agung -- sebelah kiri jika mengarah ke Depok.
 
 <br id="idx01">
 <img src="images/Nasi-Uduk-Bu-Alus-20220816-0.jpg" width="95%">
