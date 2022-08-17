@@ -1,0 +1,51 @@
+version:          "0001--17-Aug-2022"
+copyright:        "2022-2022"
+title:            "Nasi Uduk Ibu Alus"
+author:           "Ibu Alus"
+address:          "Ujung Simpang Jalan Harapan, LA."
+description:
+  Nasi Uduk
+  Ibu Alus
+  Ujung Simpang Jalan Harapan, Lenteng Agung, Jakarta Selatan
+disclaimer:
+  I have spoken.
+tagline:          "Nasi Uduk, Ibu Alus, Simpang Harapan"
+keywords:         "jekyll, testing"
+navbarlinks:
+- navbar:         "Home"
+  link:           "/"
+- navbar:         "Links"
+  link:           "/LINKS/"
+- navbar:         "Tips"
+  link:           "/TIPS/"
+- navbar:         "Zip File"
+  link:           "/template.zip"
+- navbar:         "TarBall"
+  link:           "/template.tar.bz2"
+- navbar:         "GitHub"
+  link:           "https://github.com/sdnbhd/alus"
+- navbar:         "Listing"
+  link:           "/000.html"
+- navbar:         "About"
+  link:           "/ABOUT/"
+- navbar:         "GitHub Page"
+  link:           "https://sdnbhd.github.io/alus/"
+lang:             "en-US"
+sitemap:          "true"
+markdown:         "kramdown"
+urlweb:           "https://sdnbhd.github.io/alus/"
+urlcontact:       "TBA"
+urlgithub:        "https://sdnbhd.github.io/alus/"
+google_analytics: "G-KPSLWHN6H7"
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-paginate
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+
