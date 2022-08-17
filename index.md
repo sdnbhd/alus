@@ -5,7 +5,7 @@
 # {{ site.title }}
 
 <br id="idx01">
-<img src="images/QR.png" width="100%">
+<img src="images/QR.png" width="50%">
 <br><br>
 
 Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan,
