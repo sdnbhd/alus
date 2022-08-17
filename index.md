@@ -4,19 +4,20 @@
 <br id="idx00">
 # {{ site.title }}
 
-<br id="idx05">
-<img src="images/QR.png" width="50%">
+<br id="idx01">
+<img src="images/QR.png" width="95%">
 <br><br>
 
 Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan,
-sekitar 300m dari stasiun Lenteng Agung -- sebelah kiri jika mengarah ke Depok.
+sekitar 300m setelah stasiun Lenteng Agung -- sebelah kiri -- jika mengarah ke Depok.
+Biasanya, ibu Alus bersama pak Alus, yang sudah pensiun dari sebuah BUMN bidang perhubungan.
 
 <br id="idx01">
 <img src="images/Nasi-Uduk-Bu-Alus-20220816-0.jpg" width="95%">
 <br><br>
 
 Gerobak ibu Alus mudah ditemukan karena lokasinya betul-betul di ujung simpang jalan Harapan, Lenteng Agung.
-Hanya saja, gerobaknya tanpa tanpa / tulisan informasi.
+Hanya saja, gerobaknya tanpa tanda / tulisan informasi.
 
 <br id="idx02">
 <img src="images/Nasi-Uduk-Bu-Alus-20220816-1.jpg" width="95%">
