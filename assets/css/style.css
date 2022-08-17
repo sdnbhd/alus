@@ -19,6 +19,7 @@
   color:            hsl(0, 100%, 100%);
   background-color: hsl(0, 10%, 10%);
   line-height:      120%;
+  max-width:        70%;
   font-family:      monospace,courier;
 }
 
@@ -47,7 +48,7 @@
 }
 
 .container {
-  max-width:    70%;
+  max-width:    90%;
   margin:       0 auto;
   font-size:    1em;
   text-align:   justify;
@@ -92,6 +93,7 @@
 }
 
 .right2 {
+  width:            90%;
   padding-top:      5px;
   padding-bottom:   5px;
   padding-left:     30px;
