@@ -4,6 +4,10 @@
 <br id="idx00">
 # {{ site.title }}
 
+<br id="idx05">
+<img src="images/QR.png" width="50%">
+<br><br>
+
 Setiap pagi, ibu Alus berjualan Nasi Uduk di ujung simpang jalan Harapan,
 sekitar 300m dari stasiun Lenteng Agung -- sebelah kanan jika mengarah ke Depok.
 
@@ -32,10 +36,6 @@ Kalau dengan "extra tempe", dibulatkan menjadi Rp. 15000.
 
 Syarat dan ketentuan berlaku.
 Ayam Goreng dibeli secara terpisah di KFC LA Terrace, sekitar 1300m dari lokasi ibu Alus (arah Depok).
-
-<br id="idx05">
-<img src="images/QR.png" width="60%">
-<br><br>
 
 This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
 
