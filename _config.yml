@@ -26,7 +26,7 @@ markdown:         "kramdown"
 urlweb:           "https://sdnbhd.github.io/alus/"
 urlcontact:       "TBA"
 urlgithub:        "https://sdnbhd.github.io/alus/"
-google_analytics: "G-KPSLWHN6H7"
+google_analytics: "G-R63RWB2DG9"
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
